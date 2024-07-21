@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "3005proje",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "3005proje::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3005proje-Debug-6bd1f7e0b96b08ad8260.json",
+					"name" : "3005proje",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ekino/Desktop/BAU/3.SINIF/CMP3005/CMP 3005 PROJE/Ekin_\u00d6zkurt_Berk_Ultav_Emre_E\u011filmez/3005proje/cmake-build-debug",
+		"source" : "C:/Users/ekino/Desktop/BAU/3.SINIF/CMP3005/CMP 3005 PROJE/Ekin_\u00d6zkurt_Berk_Ultav_Emre_E\u011filmez/3005proje"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

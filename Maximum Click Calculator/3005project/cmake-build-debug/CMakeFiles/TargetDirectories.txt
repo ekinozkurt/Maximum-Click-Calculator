@@ -1,0 +1,3 @@
+C:/Users/ekino/Desktop/BAU/3.SINIF/CMP3005/CMP 3005 PROJE/Ekin_Özkurt_Berk_Ultav_Emre_Eğilmez/3005proje/cmake-build-debug/CMakeFiles/3005proje.dir
+C:/Users/ekino/Desktop/BAU/3.SINIF/CMP3005/CMP 3005 PROJE/Ekin_Özkurt_Berk_Ultav_Emre_Eğilmez/3005proje/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ekino/Desktop/BAU/3.SINIF/CMP3005/CMP 3005 PROJE/Ekin_Özkurt_Berk_Ultav_Emre_Eğilmez/3005proje/cmake-build-debug/CMakeFiles/rebuild_cache.dir
